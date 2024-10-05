@@ -9,9 +9,9 @@ Author URI: https://plugin-planet.com/
 Donate link: https://monzillamedia.com/donate.html
 Contributors: specialk
 Requires at least: 5.4
-Tested up to: 6.6
-Stable tag: 2.1
-Version:    2.1
+Tested up to: 6.7
+Stable tag: 2.2
+Version:    2.2
 Requires PHP: 5.6.20
 Text Domain: disable-lazy-loading
 Domain Path: /languages
@@ -23,7 +23,7 @@ Activate this plugin to disable the Lazy Loading feature that was added in WP v5
 
 == Description ==
 
-> Does one thing: disables WP Lazy Load feature.
+Does one thing: disables WP Lazy Load feature.
 
 Activate this plugin to disable the new WP Lazy Loading functionality (added in WP version 5.5). To re-enable lazy loading at any time, simply deactivate the plugin.
 
@@ -119,9 +119,9 @@ Send any questions or feedback via my [contact form](https://plugin-planet.com/s
 If you like Disable Lazy Load, please take a moment to [give a 5-star rating](https://wordpress.org/support/plugin/disable-lazy-loading/reviews/?rate=5#new-post). It helps to keep the plugin going strong, and is greatly appreciated.
 
 
-**2.1 (2024/06/20)**
+**2.2 (2024/10/04)**
 
-* Tests on WordPress 6.6
+* Tests on WordPress 6.7
 
 
 Full changelog @ [https://plugin-planet.com/wp/changelog/disable-lazy-loading.txt](https://plugin-planet.com/wp/changelog/disable-lazy-loading.txt)

@@ -9,9 +9,9 @@
 	Donate link: https://monzillamedia.com/donate.html
 	Contributors: specialk
 	Requires at least: 5.4
-	Tested up to: 6.6
-	Stable tag: 2.1
-	Version:    2.1
+	Tested up to: 6.7
+	Stable tag: 2.2
+	Version:    2.2
 	Requires PHP: 5.6.20
 	Text Domain: disable-lazy-loading
 	Domain Path: /languages
