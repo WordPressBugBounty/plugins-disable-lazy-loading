@@ -9,9 +9,9 @@ Author URI: https://plugin-planet.com/
 Donate link: https://monzillamedia.com/donate.html
 Contributors: specialk
 Requires at least: 5.4
-Tested up to: 6.8
-Stable tag: 2.3
-Version:    2.3
+Tested up to: 6.9
+Stable tag: 2.5
+Version:    2.5
 Requires PHP: 5.6.20
 Text Domain: disable-lazy-loading
 Domain Path: /languages
@@ -30,10 +30,10 @@ Activate this plugin to disable the new WP Lazy Loading functionality (added in 
 
 **Features**
 
-* Lightweight - only one line of code.
-* Simple to use - activate and done.
-* No permanent changes are made.
-* No settings to worry about.
+* Lightweight - only one line of code
+* Simple to use - activate and done
+* No permanent changes are made
+* No settings to worry about
 * Easy peasy.
 
 
@@ -44,7 +44,7 @@ Because there are plugins that already implement lazy loading. So when upgrading
 
 **More infos**
 
-For more information about the new WP Sitemap functionality:
+For more information about WP Lazy Load functionality:
 
 * [Lazy-loading of images is in core](https://make.wordpress.org/core/2020/04/08/lazy-loading-of-images-is-in-core/)
 * [WordPress Plugin: Disable Lazy Load](https://perishablepress.com/wordpress-disable-lazy-loading/)
@@ -69,7 +69,7 @@ I develop and maintain this free plugin with love for the WordPress community. T
 
 And/or purchase one of my premium WordPress plugins:
 
-* [BBQ Pro](https://plugin-planet.com/bbq-pro/) - Super fast WordPress firewall
+* [BBQ Pro](https://plugin-planet.com/bbq-pro/) - Blazing fast WordPress firewall
 * [Blackhole Pro](https://plugin-planet.com/blackhole-pro/) - Automatically block bad bots
 * [Banhammer Pro](https://plugin-planet.com/banhammer-pro/) - Monitor traffic and ban the bad guys
 * [GA Google Analytics Pro](https://plugin-planet.com/ga-google-analytics-pro/) - Connect WordPress to Google Analytics
@@ -87,7 +87,7 @@ Links, tweets and likes also appreciated. Thank you! :)
 
 Activate like any other plugin and done. There are no settings, works automatically.
 
-More info on [installing WP plugins](https://wordpress.org/support/article/managing-plugins/#installing-plugins).
+More info on [installing WP plugins](https://wordpress.org/documentation/article/manage-plugins/#installing-plugins-1).
 
 
 **Uninstalling**
@@ -98,7 +98,7 @@ To uninstall/remove the plugin, visit the Plugins screen, deactivate and delete 
 
 == Upgrade Notice ==
 
-To upgrade this plugin, remove the old version and replace with the new version. Or just click "Update" from the Plugins screen and let WordPress do it for you automatically.
+Visit the WordPress Plugins screen, locate the plugin, and click "Update" :)
 
 
 
@@ -120,9 +120,11 @@ Send any questions or feedback via my [contact form](https://plugin-planet.com/s
 If you like Disable Lazy Load, please take a moment to [give a 5-star rating](https://wordpress.org/support/plugin/disable-lazy-loading/reviews/?rate=5#new-post). It helps to keep the plugin going strong, and is greatly appreciated.
 
 
-**2.3 (2025/03/18)**
+**2.5 (2026/01/28)**
 
-* Tests on WordPress 6.8
+* Improves readme.txt documentation
+* Tests on PHP 8.4 and 8.5
+* Tests on WordPress 6.9
 
 
 Full changelog @ [https://plugin-planet.com/wp/changelog/disable-lazy-loading.txt](https://plugin-planet.com/wp/changelog/disable-lazy-loading.txt)
